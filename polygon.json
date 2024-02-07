@@ -1,0 +1,86 @@
+{
+    "id": "polygon",
+    "description": "Polygon is a protocol and a framework for building and connecting Ethereum-compatible blockchain networks. It is designed to address some of Ethereum's major limitations, including scalability and high gas fees.",
+    "tags": [
+        "pos",
+        "ethereum ecosystem",
+        "layer 2",
+        "evm"
+    ],
+    "coin_details": {
+        "name": "Polygon",
+        "symbol": "MATIC",
+        "logo": "logo/polygon.png",
+        "max_supply": "∞"
+    },
+    "chain_details": [
+        {
+            "name": "Language",
+            "type": "Solidity"
+        },
+        {
+            "name": "Consensus",
+            "type": "Proof of stake"
+        },
+        {
+            "name": "Chain Layer",
+            "type": "L2"
+        },
+        {
+            "name": "Chain Type",
+            "type": "EVM"
+        }
+    ],
+    "official_links": {
+        "website": "https://polygon.technology/",
+        "whitepaper": "https://polygon.technology/whitepaper/",
+        "documentation": "https://docs.polygon.technology/",
+        "forum": "https://forum.matic.network/",
+        "github": "https://github.com/0xPolygon"
+    },
+    "social_platforms": {
+        "discord": "https://discord.gg/6yW3bux",
+        "twitter": "https://twitter.com/0xPolygon",
+        "reddit": "https://www.reddit.com/r/maticnetwork/",
+        "community": "https://polygon.technology/community",
+        "coinmarketcap_community": "https://coinmarketcap.com/currencies/polygon/",
+        "twitter_hashtag": "https://twitter.com/hashtag/Polygon"
+    },
+    "data_aggregator": [
+        {
+            "name": "CoinMarketCap",
+            "url": "https://coinmarketcap.com/currencies/polygon/"
+        },
+        {
+            "name": "CoinGecko",
+            "url": "https://www.coingecko.com/en/coins/polygon"
+        }
+    ],
+    "explorers": [
+        {
+            "name": "PolygonScan",
+            "url": "https://polygonscan.com/"
+        }
+    ],
+    "bridges": [
+        {
+            "name": "Polygon Bridge",
+            "url": "https://wallet.matic.network/bridge/"
+        }
+    ],
+    "bounty": [],
+    "grants": [],
+    "faucets": [],
+    "rpcs": [],
+    "wallets": [
+        {
+            "name": "MetaMask",
+            "url": "https://metamask.io/"
+        },
+        {
+            "name": "SafePal",
+            "url": "https://www.safepal.io/"
+        }
+    ],
+    "oracles": []
+}
